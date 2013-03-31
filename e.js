@@ -66,7 +66,7 @@ var e = {
 
   , phase3_novel: "The secret of the Mayas"
   , phase3_guests: "Pjotr Sztompfka, Charlotte Savage"
-  , phase3_events: "Ray joins an expedition to Mayan ruins only to uncover horrible secrets. A maverick pilotess is recruited to get them where no-one else will fly. Is hired to write about it and continues to write about his adventures. Piotr Sztompfka was an linguistic expert analysing the artefacts brought back."
+  , phase3_events: "Ray joins an expedition to Mayan ruins only to uncover horrible secrets. A maverick pilotess is recruited to get them where no-one else will fly. Is hired to write about it and continues to write about his adventures. Piotr Sztompfka was a linguistic expert analysing the artefacts brought back."
   , phase3_aspect1: "A syndicated writer"
   , phase3_aspect2: "\"This will look good on my mantelpiece\""
 
