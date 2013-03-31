@@ -9,6 +9,11 @@ textarea {
   position: absolute;
   border: 0px;
 }
+
+input:disabled,
+textarea:disabled {
+  color: black;
+}
 textarea {
   left: 33;
   width: 786;
