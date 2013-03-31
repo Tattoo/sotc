@@ -1,9 +1,9 @@
 <html>
   <head>
     <link rel="stylesheet" href="sotc-character.css" />
-    <script src="./eero.js" type="text/javascript" charset="utf-8"></script>
-    <script src="./jesse.js" type="text/javascript" charset="utf-8"></script>
-    <script src="./atte.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./e.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./j.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./a.js" type="text/javascript" charset="utf-8"></script>
 
     <script>
       function get_track_size( attr ) {
@@ -19,7 +19,7 @@
       }
       
       function generate_boxes( how_many, is_health ) {
-        var top = is_health ? 917 : 941,
+        var top = is_health ? 915 : 939,
             left = 803,
             spacing = 28,
             len = 9 - how_many;
@@ -55,6 +55,10 @@
       }
 
       function load_character( character ) {
+        if ( character === undefined ){
+          console.log("ERROR PARSING CHARACTER! NO CHARACTER!");
+          return;
+        }
         var inputs = document.getElementsByTagName( "input" ),
             textareas = document.getElementsByTagName( "textarea" ),
             stress = get_track_size( character[ "stress" ] ),
@@ -83,9 +87,9 @@
   </head>
   <body>
     <select id="chooser">
-      <option value="atte" selected="selected">Atte</option>
-      <option value="eero">Eero</option>
-      <option value="jesse">Jesse</option>
+      <option value="a" selected="selected">A</option>
+      <option value="e">E</option>
+      <option value="j">J</option>
     </select>
 <!-- header -->
     <input id="name" type="text" />

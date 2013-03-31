@@ -1,4 +1,4 @@
-var jesse = {
+var j = {
     name: "Charlotte Savage"
   , player: "Jesse"
   , concept: ""

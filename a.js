@@ -1,4 +1,4 @@
-var atte = {
+var a = {
     name: "Pjotr Sztompfka"
   , player: "Atte"
   , concept: ""

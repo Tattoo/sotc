@@ -1,4 +1,4 @@
-var eero = {
+var e = {
     name: "Ray Lewis"
   , player: "Eero"
   , concept: "Adventuring scoundrel"
