@@ -71,7 +71,7 @@ var e = {
   , phase3_aspect2: "\"This will look good on my mantelpiece\""
 
   , phase4_starring: "The Green Hell of Rhodesia"
-  , phase4_events: "Ray takes part in an expedition to uncover ancient ruins as a writer tasked of describing the wonders. While enjoying a meeting with the Zulus, later Ray and the expedition find themselves stranded in the wilderness, losing one Neville Harris, a friend of Ray's. Who will rescue them?"
+  , phase4_events: "Ray takes part in an expedition to uncover ancient ruins as a writer tasked of describing the wonders. He meets friendly Zulus and learns the art of lion taming from them. Later on, Ray and the expedition find themselves stranded in the wilderness, losing one Neville Harris, a friend of Ray's. Who will rescue them?"
   , phase4_aspect1: "Friendly with the natives"
   , phase4_aspect2: "A missing friend"
 
