@@ -21,7 +21,7 @@ var e = {
   , skill15: "Mysteries"
 
   , aspect1: "A daring mountaineer"
-  , aspect2: "No-nonesense"
+  , aspect2: "No-nonsense"
   , aspect3: "Merciless by necessity"
   , aspect4: "Independent to a fault"
   , aspect5: "A syndicated writer"
@@ -57,7 +57,7 @@ var e = {
 
   , phase1_events: "Ray Lewis is born in 1980 to a middle-class life in Manchester. Learns mountaineering in Alfred Raleigh's expeditions. Studies archeology and writes for a newspaper."
   , phase1_aspect1: "A daring mountaineer"
-  , phase1_aspect2: "No-nonesense"
+  , phase1_aspect2: "No-nonsense"
 
   , phase2_patron: "Alfred Raleigh"
   , phase2_events: "Ray joins the Great War on the British infantry, where he raises to the rank of captain in 1916. Does \"commando\" ops in the Alps."
