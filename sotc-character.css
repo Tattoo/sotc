@@ -1,0 +1,245 @@
+body {
+  background-image: url(./sotc-background.png);
+  background-repeat: no-repeat;
+  width: 850px;
+  height: 2200px;
+}
+input,
+textarea {
+  position: absolute;
+  border: 0px;
+}
+textarea {
+  left: 33;
+  width: 786;
+  height: 68;
+}
+.track-box {
+  width: 9px;
+  height: 9px;
+  background-color: black;
+  position: absolute;
+}
+
+#name {
+  top: 90;
+  left: 75;
+  width: 345;
+}
+#player {
+  top: 90;
+  left: 490;
+  width: 335;
+}
+#concept {
+  top: 115;
+  left: 100;
+  width: 320;
+}
+#archetype {
+  top: 115;
+  left: 525;
+  width: 300;
+}
+#aspects > input {
+  left: 33;
+  width: 377;
+}
+#aspect1 {
+  top: 204;
+}
+#aspect2 {
+  top: 237;
+}
+#aspect3 {
+  top: 271;
+}
+#aspect4 {
+  top: 304;
+}
+#aspect5 {
+  top: 337;
+}
+#aspect6 {
+  top: 371;
+}
+#aspect7 {
+  top: 404;
+}
+#aspect8 {
+  top: 437;
+}
+#aspect9 {
+  top: 471;
+}
+#aspect10 {
+  top: 504;
+}
+#skills > input {
+  left: 441;
+  width: 315;
+}
+#skill1 {
+  top: 237;
+}
+#skill2 {
+  top: 295;
+}
+#skill3 {
+  top: 329;
+}
+#skill4 {
+  top: 387;
+}
+#skill5 {
+  top: 421;
+}
+#skill6 {
+  top: 455;
+}
+#skill7 {
+  top: 512;
+}
+#skill8 {
+  top: 545;
+}
+#skill9 {
+  top: 579;
+}
+#skill10 {
+  top: 613;
+}
+#skill11 {
+  top: 670;
+}
+#skill12 {
+  top: 704;
+}
+#skill13 {
+  top: 738;
+}
+#skill14 {
+  top: 771;
+}
+#skill15 {
+  top: 805;
+}
+#stunts > input {
+  left: 33;
+  width: 317;
+}
+#stunt1 {
+  top: 607;
+}
+#stunt2 {
+  top: 641;
+}
+#stunt3 {
+  top: 673;
+}
+#stunt4 {
+  top: 707;
+}
+#stunt5 {
+  top: 741;
+}
+#gadgets > input {
+  left: 33;
+  width: 176;
+}
+#gadget1,
+#upgrade1 {
+  top: 848;
+}
+#gadget2,
+#upgrade2 {
+  top: 881;
+}
+#gadget3,
+#upgrade3 {
+  top: 914;
+}
+#gadget4,
+#upgrade4 {
+  top: 948;
+}
+#gadget5,
+#upgrade5 {
+  top: 981;
+}
+#upgrades > input {
+  left: 227;
+  width: 183;
+}
+.aspects {
+  width: 267;
+}
+#phase1_aspect1,
+#phase2_aspect1,
+#phase3_aspect1,
+#phase4_aspect1,
+#phase5_aspect1 {
+  left: 133;
+}
+#phase1_aspect2,
+#phase2_aspect2,
+#phase3_aspect2,
+#phase4_aspect2,
+#phase5_aspect2 {
+  left: 550;
+}
+#phase1_events {
+  top: 1173;
+}
+#phase1 > .aspects {
+  top: 1251;
+}
+#phase2_patron {
+  top: 1331;
+  left: 216;
+  width: 600;
+}
+#phase2_events {
+  top: 1386;
+}
+#phase2 > input.aspects {
+  top: 1465;
+}
+#phase3_novel {
+  top: 1546;
+  left: 132;
+  width: 684;
+}
+#phase3_guests {
+  top: 1579;
+  left: 141;
+  width: 676;
+}
+#phase3_events {
+  top: 1635;
+}
+#phase3 > input.aspects {
+  top: 1713;
+}
+#phase4_starring {
+  top: 1792;
+  left: 200;
+  width: 616;
+}
+#phase4_events {
+  top: 1848;
+}
+#phase4 > input.aspects {
+  top: 1926;
+}
+#phase5_starring {
+  top: 2010;
+  left: 198;
+  width: 616;
+}
+#phase5_events {
+  top: 2066;
+}
+#phase5 > input.aspects {
+  top: 2144;
+}
