@@ -55,12 +55,12 @@ var a = {
   , stress: "6"
   , health: "6"
 
-  , phase1_events: "Born in 1878 to a large aristocratic Polish-Jewish family in Krakow. Studied in univeristy under L. L. Shemenhoe and worked with him on Esperanto (1897). Had a love affair with his mentor's wife and was thus sidelined from academic world and separated from his maverick linguistic theory.\n\nThis phase covers from age 0 to 36"
+  , phase1_events: "Born in 1878 to a large aristocratic Polish-Jewish family in Krakow. Studied in univeristy under L. L. Shemenhoe and worked with him on Esperanto (1897). Had a love affair with his mentor's wife and was thus isolated from academic world along with his maverick linguistic theory.\n\nThis phase covers from age 0 to 36"
   , phase1_aspect1: "Maverick intellectual"
   , phase1_aspect2: "\"You don't want to know me\""
 
   , phase2_patron: ""
-  , phase2_events: "Distraught by onset of Great War, Piotr Sztompfka joins the Mensheviks; gets exiled from USSR and Poland; understands <jotain?> significance of linguistic work; and is wounded by Boshevik bombing.\n\nThis phase covers from age 36 to 40."
+  , phase2_events: "Distraught by onset of Great War, Piotr Sztompfka joins the Mensheviks; gets exiled from USSR and Poland; understands greater political significance of linguistic work; and is wounded by Boshevik bombing.\n\nThis phase covers from age 36 to 40."
   , phase2_aspect1: "Utopian vanguard"
   , phase2_aspect2: "No place like home"
 
