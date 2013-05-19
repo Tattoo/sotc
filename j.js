@@ -34,8 +34,8 @@ var j = {
   , stunt1: "Personal Gadget"
   , stunt2: "Danger Sense"
   , stunt3: "Ms. Fix-it"
-  , stunt4: "Safe Fall"
-  , stunt5: ""
+  , stunt4: "Fly By Night"
+  , stunt5: "Smooth Recovery"
 
   , gadget1: "Daddy's Goggles"
   , upgrade1: "Futurization: Flight levels"
